@@ -1,0 +1,156 @@
+*{
+    margin:0;
+    padding:0;
+    }
+
+.div1{
+    height: 507px;
+    background-color: rgb(102, 191, 191);
+}
+
+#image1{
+    width: 150px;
+}
+
+.header-text{
+    font-family: "Sacramento", cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+.imageabout{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.about-me{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+h1, h2{ color: white;}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+}
+
+h3{
+    font-size: 35px;
+    color: rgba(120, 230, 230, 0.89);
+    margin-top: 60px;
+    margin-bottom: 24px;
+}
+
+h4{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.div2{
+    text-align: center;
+    margin: 20px 0;
+}
+
+#image2{
+    width: 150px;
+}
+
+#image3{
+    margin-top: 60px;
+}
+
+h3, h4{ color: rgb(27, 129, 133)}
+
+.div3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(102, 191, 191);
+}
+
+ul{
+    margin-bottom: 40px;
+}
+
+ul li{
+    line-height: 30px;
+}
+
+.div4{
+    text-align: center;
+    background-color: white;
+}
+
+.in-touch{
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+
+.contact{
+    line-height: 30px;
+    text-align: center;
+}
+
+.personality{
+    display: flex;
+    justify-content: space-around;
+}
+
+.gender{
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.hobby{
+    line-height: 30px;
+    margin-top: -10px;
+}
+
+.comment{
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+#text_area{
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+
+#submit_button{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(27, 129, 133);
+    color: white;
+    margin-bottom: 70px;
+}
+
+#footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(102, 191, 191);
+}
+
+a{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.footer-text{
+    font-size: 15px;
+    margin-bottom: 20px;
+}
